@@ -1,0 +1,200 @@
+@font-face {
+    font-family: "FlaticonSetSenior";
+    src: url("../fonts/flaticon-set-senior.woff2") format("woff2"),
+url("../fonts/flaticon-set-senior.woff") format("woff"),
+url("../fonts/flaticon-set-senior.eot") format("embedded-opentype"),
+url("../fonts/flaticon-set-senior.ttf") format("truetype"),
+url("../fonts/flaticon-set-senior.svg") format("svg")
+}
+
+i[class^="flaticon-set-"]:before, i[class*=" flaticon-set-"]:before {
+    font-family: FlaticonSetSenior !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-set-nursing-home:before {
+    content: "\f101";
+}
+.flaticon-set-nursing-home-1:before {
+    content: "\f102";
+}
+.flaticon-set-old-man:before {
+    content: "\f103";
+}
+.flaticon-set-nursing-home-2:before {
+    content: "\f104";
+}
+.flaticon-set-elderly-home:before {
+    content: "\f105";
+}
+.flaticon-set-assisted-living:before {
+    content: "\f106";
+}
+.flaticon-set-elderly-care:before {
+    content: "\f107";
+}
+.flaticon-set-support:before {
+    content: "\f108";
+}
+.flaticon-set-old-people:before {
+    content: "\f109";
+}
+.flaticon-set-elder:before {
+    content: "\f10a";
+}
+.flaticon-set-old-woman:before {
+    content: "\f10b";
+}
+.flaticon-set-service:before {
+    content: "\f10c";
+}
+.flaticon-set-elderly:before {
+    content: "\f10d";
+}
+.flaticon-set-senior:before {
+    content: "\f10e";
+}
+.flaticon-set-assisted-living-1:before {
+    content: "\f10f";
+}
+.flaticon-set-old:before {
+    content: "\f110";
+}
+.flaticon-set-elderly-1:before {
+    content: "\f111";
+}
+.flaticon-set-care:before {
+    content: "\f112";
+}
+.flaticon-set-care-1:before {
+    content: "\f113";
+}
+.flaticon-set-cane:before {
+    content: "\f114";
+}
+.flaticon-set-elderly-couple-silhouettes-with-canes:before {
+    content: "\f115";
+}
+.flaticon-set-elderly-2:before {
+    content: "\f116";
+}
+.flaticon-set-bench:before {
+    content: "\f117";
+}
+.flaticon-set-pills:before {
+    content: "\f118";
+}
+.flaticon-set-old-man-1:before {
+    content: "\f119";
+}
+.flaticon-set-rocking-chair:before {
+    content: "\f11a";
+}
+.flaticon-set-bookshelf:before {
+    content: "\f11b";
+}
+.flaticon-set-bookshelf-1:before {
+    content: "\f11c";
+}
+.flaticon-set-wheelchair:before {
+    content: "\f11d";
+}
+.flaticon-set-wheelchair-1:before {
+    content: "\f11e";
+}
+.flaticon-set-nursing-home-3:before {
+    content: "\f11f";
+}
+.flaticon-set-electrocardiogram:before {
+    content: "\f120";
+}
+.flaticon-set-knitting:before {
+    content: "\f121";
+}
+.flaticon-set-newspaper:before {
+    content: "\f122";
+}
+.flaticon-set-nurse:before {
+    content: "\f123";
+}
+.flaticon-set-old-1:before {
+    content: "\f124";
+}
+.flaticon-set-old-2:before {
+    content: "\f125";
+}
+.flaticon-set-nurse-1:before {
+    content: "\f126";
+}
+.flaticon-set-note:before {
+    content: "\f127";
+}
+.flaticon-set-document:before {
+    content: "\f128";
+}
+.flaticon-set-safety:before {
+    content: "\f129";
+}
+.flaticon-set-baby-boom:before {
+    content: "\f12a";
+}
+.flaticon-set-assisted-living-2:before {
+    content: "\f12b";
+}
+.flaticon-set-old-3:before {
+    content: "\f12c";
+}
+.flaticon-set-frame:before {
+    content: "\f12d";
+}
+.flaticon-set-cake:before {
+    content: "\f12e";
+}
+.flaticon-set-leisure:before {
+    content: "\f12f";
+}
+.flaticon-set-money:before {
+    content: "\f130";
+}
+.flaticon-set-chess:before {
+    content: "\f131";
+}
+.flaticon-set-tv:before {
+    content: "\f132";
+}
+.flaticon-set-swing:before {
+    content: "\f133";
+}
+.flaticon-set-diaper:before {
+    content: "\f134";
+}
+.flaticon-set-denture:before {
+    content: "\f135";
+}
+.flaticon-set-reading:before {
+    content: "\f136";
+}
+.flaticon-set-drugs:before {
+    content: "\f137";
+}
+.flaticon-set-virtual-assistants:before {
+    content: "\f138";
+}
+.flaticon-set-old-woman-1:before {
+    content: "\f139";
+}
+.flaticon-set-tax-inspector:before {
+    content: "\f13a";
+}
+.flaticon-set-hospital-bed:before {
+    content: "\f13b";
+}
+.flaticon-set-radio:before {
+    content: "\f13c";
+}
+
